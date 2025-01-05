@@ -43,7 +43,6 @@ Replace the placeholder bot token in the script with your actual Telegram bot to
 const token = 'YOUR_TELEGRAM_BOT_TOKEN';
 ```
 ### 3. Deploy to Cloudflare Workers
-
 1. install [Wrangler CLI](https://developers.cloudflare.com/workers/wrangler/):
 ```bash
 npm install -g wrangler
