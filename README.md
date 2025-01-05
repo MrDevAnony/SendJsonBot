@@ -35,7 +35,7 @@ The bot is designed to run seamlessly on **Cloudflare Workers**, offering a free
 #### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-repo-name/telegram-echo-bot.git
-cd telegram-echo-bo
+cd telegram-echo-bot
 ```
 #### 2. Configure the Bot
 Replace the placeholder bot token in the script with your actual Telegram bot token:
