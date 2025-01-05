@@ -11,7 +11,7 @@ async function handleRequest(request) {
         }
 
         const chatId = data.message.chat.id;
-        const token = '*******************************';
+        const token = 'YOUR_TELEGRAM_BOT_TOKEN';
 
         const responseMessage = JSON.stringify(data, null, 2);
 
